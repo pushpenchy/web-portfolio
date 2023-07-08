@@ -114,3 +114,11 @@ main{
 .about-info{
     text-align: center;
 }
+#what-i-do{
+    padding-top: 30px;
+    padding-left: 345px;
+    padding-right: 346;
+}
+.skills-container{
+    display: flex;
+}
